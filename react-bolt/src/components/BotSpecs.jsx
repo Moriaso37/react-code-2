@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 function BotSpecs({ bot, onEnlist, onBack }) {
